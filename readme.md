@@ -8,4 +8,5 @@
 
 
 
-![image-20220420174935804](C:\Users\DUM!\AppData\Roaming\Typora\typora-user-images\image-20220420174935804.png): https://www.linkedin.com/in/raquel-r-580b87237/
+(https://github.com/raquel0685/desafio-Dio-GitHub/blob/0c942fb6f266995a1308a384808ecb7e98476e15/logo.png): https://www.linkedin.com/in/raquel-r-580b87237/
+
